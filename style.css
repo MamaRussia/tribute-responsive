@@ -1,6 +1,9 @@
 #image {
-    height: 450px;
-    width: 700px;
+    height: auto;
+    width: 100%;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -12,3 +15,4 @@
     height: 300px;
     position: relative;
 }
+
